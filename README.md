@@ -34,4 +34,5 @@ EXAMPLE
 local vehicles = { {label = 'POLICE DODGE', SpawnName = 'POLICETEX'}, }
 
 #Description
-Ha bármi problémátok van a scriptel akkor írjatok nekem discordon Szabi#4575
+
+Ha bármi problémátok van a scriptel akkor írjatok nekem discordon Szabi™ツ#4575 
