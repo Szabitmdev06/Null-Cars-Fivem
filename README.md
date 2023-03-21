@@ -32,3 +32,6 @@ Then restart the script so that the new name appears in the garage
 EXAMPLE
 
 local vehicles = { {label = 'POLICE DODGE', SpawnName = 'POLICETEX'}, }
+
+#Description
+Ha bármi problémátok van a scriptel akkor írjatok nekem discordon Szabi#4575
